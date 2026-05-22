@@ -1,11 +1,11 @@
 # Hisabara
-
+![alt text](https://github.com/Narzetts/HISABARA/blob/main/images/screenshot/HISABARA.png?raw=true)
 Sistem Informasi Akuntansi Masjid berbasis **entitas nonlaba**. Dibangun dengan PHP Native, MySQL, Bootstrap 5, dan Chart.js.
 
 Hisabara dirancang untuk membantu pengurus masjid melakukan pencatatan, pelaporan, pengawasan, dan pengelolaan keuangan secara lebih transparan, terstruktur, efisien, dan sesuai standar akuntansi entitas nonlaba.
 
 ---
-
+![alt text](https://github.com/Narzetts/HISABARA/blob/main/images/screenshot/dashboard.png?raw=true)
 ## Keunggulan
 
 | Aspek | Deskripsi |
@@ -24,9 +24,8 @@ Hisabara dirancang untuk membantu pengurus masjid melakukan pencatatan, pelapora
 | **Transparansi** | Seluruh transaksi tercatat, teraudit, dan dapat dilaporkan ke publik |
 
 ---
-
 ## Fitur
-
+![alt text](https://github.com/Narzetts/HISABARA/blob/main/images/screenshot/anggaran.png?raw=true)
 | Modul | Deskripsi |
 |-------|-----------|
 | **Dashboard** | KPI cards, Skor Kesehatan Keuangan, grafik pemasukan/pengeluaran 12 bulan, komposisi beban, peringatan anggaran, transaksi terbaru |
@@ -51,6 +50,7 @@ Hisabara dirancang untuk membantu pengurus masjid melakukan pencatatan, pelapora
 | **Export** | PDF (DomPDF), Excel (PhpSpreadsheet) |
 | **Dark Mode** | Toggle tema terang/gelap |
 
+![alt text](https://github.com/Narzetts/HISABARA/blob/main/images/screenshot/laporankeuangan.png?raw=true)
 ### Kepatuhan entitas nonlaba
 
 - Klasifikasi Aset Neto dalam Laporan Posisi Keuangan
@@ -205,7 +205,7 @@ Atau query parameter:
 ---
 
 ## HISA AI — Hisabara Intelligence
-
+![alt text](https://github.com/Narzetts/HISABARA/blob/main/images/screenshot/hisaai.png?raw=true)
 Dua modul kecerdasan untuk pengelolaan keuangan masjid dalam satu halaman terpadu dengan tab navigasi, dilengkapi AI Financial Monitor:
 
 ### Halaman Terpadu HISA AI
@@ -397,22 +397,9 @@ Saldo awal kas: Rp 75.000.000. Seluruh transaksi menggunakan double-entry.
 
 ---
 
-## Pengembangan Selanjutnya
-
-- Integrasi QRIS untuk donasi dan penerimaan dana
-- Payment gateway untuk transaksi online
-- OCR (Optical Character Recognition) untuk scan struk dan dokumen
-- Notifikasi WhatsApp untuk reminder dan laporan berkala
-- Dukungan multi-cabang masjid dalam satu instalasi
-- Aplikasi mobile (Android / iOS)
-- AI prediksi anggaran berdasarkan tren historis multi-tahun
-- Rekonsiliasi bank otomatis berbasis AI
-
----
-
 ## Teknologi
 
-- **Backend:** PHP 8+ (Native, no framework)
+- **Backend:** PHP 8+ (Native)
 - **Database:** MySQL / MariaDB
 - **Frontend:** Bootstrap 5.3, Chart.js 4
 - **Layanan AI:** OpenRouter API (deepseek/deepseek-chat)
