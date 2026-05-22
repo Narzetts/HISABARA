@@ -420,8 +420,3 @@ Saldo awal kas: Rp 75.000.000. Seluruh transaksi menggunakan double-entry.
 - **Security:** CSRF, Rate Limiting, CSP, Session Management
 - **Accounting:** Non-Profit Entities
 
----
-
-## Lisensi
-
-Dikembangkan sebagai sistem informasi akuntansi masjid untuk kebutuhan skripsi, penelitian, dan implementasi nyata pengelolaan keuangan masjid.
