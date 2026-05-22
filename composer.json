@@ -1,0 +1,12 @@
+{
+    "name": "masjid/keuangan",
+    "description": "Sistem Pelaporan Keuangan Masjid",
+    "type": "project",
+    "require": {
+        "dompdf/dompdf": "^2.0",
+        "phpoffice/phpspreadsheet": "^1.29"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}

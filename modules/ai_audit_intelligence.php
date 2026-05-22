@@ -1,0 +1,1 @@
+<?php header('Location: index.php?page=ai_analisis'); exit; ?>
